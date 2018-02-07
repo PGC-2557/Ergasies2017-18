@@ -19,7 +19,6 @@ months={
 
 cun_date=datetime.datetime.now().date()
 m=cun_date.month
-m=2
 y=cun_date.year
 if m==2:
     if y%4==0:
